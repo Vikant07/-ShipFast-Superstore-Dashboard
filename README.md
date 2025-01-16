@@ -1,6 +1,7 @@
 # 🚀 **ShipFast Superstore Dashboard**  
 
-An interactive dashboard for analyzing sales and shipment data of **ShipFast Logistics Superstore** to identify inefficiencies, optimize processes, and improve decision-making.  
+An interactive dashboard for analyzing sales and shipment data of **ShipFast Logistics Superstore** to identify inefficiencies, optimize processes, and improve decision-making.
+
 
 ---
 
